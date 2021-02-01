@@ -1,0 +1,6 @@
+export CLOUDFLARE_AUTH_KEY=
+export CLOUDFLARE_AUTH_EMAIL=
+export CLOUDFLARE_ZONE_ID=
+export CLOUDFLARE_ACCOUNT_ID=
+
+yarn deploy
